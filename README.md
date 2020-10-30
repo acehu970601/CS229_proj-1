@@ -13,3 +13,5 @@ Update:
 print out the highest score of linear regression among labels
 
 Add feature i, u, Power only in Profile_4.csv
+
+https://github.com/acehu970601/CS229_proj-1/blob/master/cs%20229%20Presentation.png?raw=true
